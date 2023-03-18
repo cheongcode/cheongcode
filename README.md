@@ -1,3 +1,4 @@
+![Alt Text](https://github.com/cheongcode/cheongcode/blob/main/about.gif)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -22,8 +23,5 @@ me = JustADeveloper()
 me.about_me()
 me.say_hi()
 ```
-<p align="center">
-  <img alig src="https://github.com/cheongcode/cheongcode/blob/main/about.gif"/>
-</p>
 
 
