@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/sake.gif" />
+  <img alig src="https://github.com/cheongcode/cheongcode/blob/master/sake.gif" />
 </p>
 <!--
 **cheongcode/cheongcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
