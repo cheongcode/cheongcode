@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/cheongcode/cheongcode/blob/main/about.gif)
+![Alt Text](https://github.com/cheongcode/cheongcode/blob/main/about.gif#center)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
