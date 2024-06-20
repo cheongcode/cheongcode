@@ -23,5 +23,5 @@ me = JustADeveloper()
 me.about_me()
 me.say_hi()
 ```
-
+[![cheongcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheongcode)](https://github.com/cheongcode/github-readme-stats)
 
