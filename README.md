@@ -1,155 +1,183 @@
-<!-- HERO -->
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Brandon%20Cheong&fontSize=60&fontAlignY=40&desc=Full-stack%20Engineer%20%7C%20Cybersecurity%20%7C%20Educator&descAlignY=65&color=0:8871e5,100:b678c4" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Brandon%20Cheong&fontSize=80&fontAlignY=45&desc=Full-stack%20Engineer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Educator&descAlignY=70&descSize=20&color=0:8871e5,50:b678c4,100:00d4ff&fontColor=ffffff&animation=fadeIn&stroke=b678c4&strokeWidth=2" />
 </p>
 
+<!-- ANIMATED BADGES -->
 <p align="center">
   <a href="https://github.com/cheongcode">
-    <img src="https://komarev.com/ghpvc/?username=cheongcode&label=visitors&color=blueviolet&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=cheongcode&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   </a>
   <a href="https://github.com/cheongcode?tab=followers">
-    <img src="https://img.shields.io/github/followers/cheongcode?style=for-the-badge&color=7f3fbf" />
+    <img src="https://img.shields.io/github/followers/cheongcode?style=for-the-badge&logo=github&color=7f3fbf&labelColor=1a1a2e" />
   </a>
   <a href="https://github.com/cheongcode?tab=stars">
-    <img src="https://img.shields.io/github/stars/cheongcode?style=for-the-badge&color=b678c4" />
+    <img src="https://img.shields.io/github/stars/cheongcode?style=for-the-badge&logo=github&color=b678c4&labelColor=1a1a2e" />
   </a>
 </p>
 
-<!-- TYPING -->
+<!-- TYPING SVG - MULTIPLE LINES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=B678C4&center=true&vCenter=true&width=800&lines=Build.+Break.+Ship.;Offensive+Security+%7C+Cloud+%7C+Full-stack;I+teach+what+I+build+and+break" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=B678C4&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%A5+Build.+Break.+Secure.+Ship.;%F0%9F%9B%A1%EF%B8%8F+Offensive+Security+%7C+Cloud+Architecture+%7C+Full-stack;%F0%9F%8E%93+I+teach+what+I+build+and+break" />
 </p>
 
-<!-- FUN GIF -->
+<!-- ANIMATED GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 ---
 
-## ⚡ Quick intro
+<!-- PROFILE WIDGET BOX -->
+<p align="center">
+  <a href="https://github.com/cheongcode">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=cheongcode&data=followers,repositories,stars,commits&theme=nautilus" />
+  </a>
+</p>
+
+---
+
+## ⚡ `whoami`
 
 ```python
-class Brandon:
-    location = "Singapore"
-    work = ["Full-stack", "Cybersecurity", "Teaching"]
-    focus = ["Security Automation", "Cloud", "Systems", "CTF"]
-    languages_spoken = ["en_US", "zh_CN"]
-    
-    def say_hi(self):
-        print("Feel free to drop me a text!")
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-me = Brandon()
-me.say_hi()
+class Brandon:
+    def __init__(self):
+        self.name = "Brandon Cheong"
+        self.location = "🇸🇬 Singapore"
+        self.roles = ["Full-stack Developer", "Security Engineer", "Educator"]
+        self.focus = ["Offensive Security", "Cloud Architecture", "Automation", "CTF"]
+        self.languages = ["en_US", "zh_CN"]
+        self.current_status = "Building secure systems by day, breaking them by night"
+
+    def __str__(self):
+        return f"👋 Hey, I'm {self.name} — sleep-deprived and caffeinated!"
+
+if __name__ == "__main__":
+    me = Brandon()
+    print(me)
 ```
 
 ---
 
-## 🏷️ Socials
+## 🏷️ Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/cheongbrandon">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:brandoncheong22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/cheongcode">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech Arsenal
 
+<!-- LANGUAGES -->
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,php,html,css,bash,go&includeNames=true&theme=nautilus" />
+</p>
+
+<!-- FRAMEWORKS & TOOLS -->
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,nextjs,vue,tailwind,express,django,electron&includeNames=true&theme=nautilus" />
+</p>
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,aws,firebase,mongodb,mysql,nginx,linux&includeNames=true&theme=nautilus" />
+</p>
+
+<!-- ANIMATED SKILL ICONS -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,js,ts,nodejs,python,php,aws,docker,linux,nginx,mysql,mongodb,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,ts,nodejs,python,go,aws,docker,linux,nginx,mysql,mongodb,git,vscode&perline=8&theme=dark" />
   </a>
 </p>
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cheongcode&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cheongcode&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
 </p>
 
 ---
 
-## 📈 Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheongcode&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheongcode&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cheongcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=b678c4&icon_color=b678c4&text_color=c9d1d9" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheongcode&theme=tokyonight&hide_border=true&background=0d1117&ring=b678c4&fire=b678c4&currStreakLabel=b678c4" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheongcode&layout=compact&theme=radical&hide_border=true" width="40%"/>
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheongcode&theme=react-dark&hide_border=true&radius=12" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheongcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b678c4&text_color=c9d1d9" width="40%"/>
 </p>
 
 ---
 
-## 🧠 Metrics Dashboard
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/cheongcode?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FSingapore" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheongcode&theme=react-dark&hide_border=true&bg_color=0d1117&color=b678c4&line=b678c4&point=ffffff&area=true&area_color=b678c4" width="98%"/>
 </p>
 
 ---
 
-## 🧱 Summary Cards
+## 🧱 Profile Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheongcode&theme=radical" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheongcode&theme=tokyonight" width="98%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheongcode&theme=radical" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheongcode&theme=radical" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cheongcode&theme=radical" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheongcode&theme=radical&utcOffset=8" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheongcode&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheongcode&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheongcode&theme=tokyonight&utcOffset=8" width="32%"/>
 </p>
 
 ---
 
-## ✍️ Daily Quote
+## ✍️ Random Dev Wisdom
 
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=radical&category=programming" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheongcode/cheongcode/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheongcode/cheongcode/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cheongcode/cheongcode/output/snake.svg" />
+</picture>
+
+---
+
+## 🧊 3D Contributions
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cheongcode/cheongcode/output/snake.svg" alt="snake animation" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="98%"/>
 </p>
 
 ---
 
-## 🧊 3D Contribution
-
+<!-- ANIMATED FOOTER -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:8871e5,50:b678c4,100:00d4ff&animation=twinkling" />
 </p>
 
----
-
+<!-- SECRET SAUCE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8871e5,100:b678c4" />
+  <img src="https://img.shields.io/badge/Made%20with-☕%20%26%20💜-b678c4?style=for-the-badge" />
 </p>
