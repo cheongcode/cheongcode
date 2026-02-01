@@ -106,7 +106,7 @@ if __name__ == "__main__":
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cheongcode&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cheongcode&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ---
@@ -114,12 +114,12 @@ if __name__ == "__main__":
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheongcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=b678c4&icon_color=b678c4&text_color=c9d1d9" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheongcode&theme=tokyonight&hide_border=true&background=0d1117&ring=b678c4&fire=b678c4&currStreakLabel=b678c4" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cheongcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=cheongcode&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheongcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b678c4&text_color=c9d1d9" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheongcode&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -127,7 +127,7 @@ if __name__ == "__main__":
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheongcode&theme=react-dark&hide_border=true&bg_color=0d1117&color=b678c4&line=b678c4&point=ffffff&area=true&area_color=b678c4" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheongcode&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 </p>
 
 ---
@@ -156,11 +156,13 @@ if __name__ == "__main__":
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheongcode/cheongcode/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheongcode/cheongcode/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cheongcode/cheongcode/output/snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheongcode/cheongcode/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheongcode/cheongcode/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/cheongcode/cheongcode/output/snake.svg" width="100%"/>
+  </picture>
+</p>
 
 ---
 

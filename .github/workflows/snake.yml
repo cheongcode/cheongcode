@@ -5,25 +5,23 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake (light mode)
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: cheongcode
           outputs: |
             dist/snake.svg
-            dist/snake.gif?color_snake=b678c4&color_dots=#8871e5,#b678c4,#00d4ff
-
-      - name: Generate snake (dark mode)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: cheongcode
-          outputs: |
             dist/snake-dark.svg?palette=github-dark
-            dist/snake-dark.gif?color_snake=b678c4&color_dots=#8871e5,#b678c4,#00d4ff
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
