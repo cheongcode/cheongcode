@@ -2,11 +2,11 @@
 
 # Brandon Cheong
 
-<sub>full-stack &nbsp;·&nbsp; security &nbsp;·&nbsp; educator &nbsp;·&nbsp; professional vibe coder</sub>
+<sub>full-stack &nbsp;·&nbsp; cybersecurity &nbsp;·&nbsp; education &nbsp;·&nbsp; 200% clown</sub>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&duration=2500&color=8B949E&center=true&vCenter=true&width=560&lines=trust%2C+but+verify+(the+AI+wrote+this)" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&duration=2500&color=8B949E&center=true&vCenter=true&width=560&lines=full-stack+by+day;breaking+things+by+night;grading+papers+by+accident" />
 
 <br>
 
@@ -30,20 +30,19 @@ I write software, occasionally break into it, and teach a class of students who 
 
 <br>
 
-### `git log --grep="vibe"`
+### From typing to prompting
 
-Went from writing code to *describing* code and hoping the model has better judgement than my 2am self. It doesn't. It just has more confidence.
+Somewhere around 2024 I stopped hand-typing every line and started arguing with an autocomplete that's read more code than I ever will. Doesn't mean the work isn't mine — it means the first draft comes from a very confident collaborator who's never once been on call for the 3am page.
 
 ```
-1. Ask the AI to fix the bug.
-2. Doubt the fix on principle.
-3. Ship it anyway — deadline doesn't care about my principles.
-4. Bug reappears in prod.
-5. Doubt my own code instead. Turns out the AI was right.
-6. Repeat. Call it "AI-assisted development" in the standup.
+1. Prompt it.
+2. Review like I don't trust it — because I don't.
+3. Fix what it missed, rewrite what it faked.
+4. Ship.
+5. Get paged anyway. Some things never change.
 ```
 
-Stack-wise: I don't have a religion about it. I ship in whatever the problem asks for — most weeks that's TypeScript, Python, and Go, but the honest answer is "whatever gets it done without me writing a framework from scratch."
+Stack-wise, no religion here. Mostly TypeScript, Python, and Go — but the honest answer is "whatever the problem asks for, without me writing a framework from scratch to avoid learning a new one."
 
 <br>
 
@@ -57,13 +56,18 @@ Stack-wise: I don't have a religion about it. I ship in whatever the problem ask
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cheongcode&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=8B949E&text_color=C9D1D9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=cheongcode&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=8B949E&fire=8B949E&currStreakLabel=8B949E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cheongcode&show_icons=true&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=cheongcode&theme=dark&hide_border=true" height="165"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheongcode&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=cheongcode&theme=darkhub&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" height="165"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<sub>Built with ☕, mild imposter syndrome, and one (1) AI I don't fully trust.</sub>
+<sub>Built with ☕, mild imposter syndrome, and a healthy amount of second-guessing.</sub>
 </div>
